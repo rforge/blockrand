@@ -1,7 +1,7 @@
 Package: blockrand
 Type: Package
 Title: Randomization for block random clinical trials
-Version: 1.1
+Version: 1.2
 Date: 2006-02-02
 Author: Greg Snow <greg.snow@imail.org>
 Maintainer: Greg Snow <greg.snow@imail.org>
