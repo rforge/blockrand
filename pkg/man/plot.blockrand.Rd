@@ -150,7 +150,7 @@ plot.blockrand(my.study,'mystudy.pdf',
 
 ### or
 
-blockrand.txt <- list(
+blockrand.text <- list(
    top=list(text=c('My Study','Patient: \%ID\%','Treatment: \%TREAT\%'),
             col=c('black','black','red'),font=c(1,1,4)),
    middle=list(text=c("My Study","Sex: \%STRAT\%","Patient: \%ID\%"),
