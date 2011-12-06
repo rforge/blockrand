@@ -11,7 +11,7 @@
 plot.blockrand(x, file = "blockrand.pdf", top, middle, bottom, width =
 11, height = 8.5, par.args, id.col = "id", stratum.col = "stratum",
 treat.col = "treatment", cut.marks = FALSE, top.ho, top.vo, middle.ho,
-middle.vo, bottom.ho, bottom.vo, ...)
+middle.vo, bottom.ho, bottom.vo, nrow=2, ncol=2, ...)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -43,6 +43,8 @@ middle.vo, bottom.ho, bottom.vo, ...)
   \item{middle.vo}{Shift middle text up(down)}
   \item{bottom.ho}{Shift bottom text to the right(left)}
   \item{bottom.vo}{Shift bottom text up(down)}
+  \item{nrow}{Number of rows of cards to print}
+  \item{ncol}{Number of columns of cards to print}
   \item{\dots}{ Optional arguments passed to \code{pdf} }
 }
 \details{
