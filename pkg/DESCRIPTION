@@ -3,7 +3,7 @@ Type: Package
 Title: Randomization for block random clinical trials
 Version: 1.3
 Date: 2012-01-18
-Author: Greg Snow <greg.snow@imail.org>
-Maintainer: Greg Snow <greg.snow@imail.org>
+Author: Greg Snow <538280@gmail.com>
+Maintainer: Greg Snow <538280@gmail.com>
 Description: Create randomizations for block random clinical trials.  Can also produce a pdf file of randomization cards.
 License: GPL-2
