@@ -1,8 +1,8 @@
 Package: blockrand
 Type: Package
 Title: Randomization for block random clinical trials
-Version: 1.3
-Date: 2012-01-18
+Version: 1.4
+Date: 2019-07-29
 Author: Greg Snow <538280@gmail.com>
 Maintainer: Greg Snow <538280@gmail.com>
 Description: Create randomizations for block random clinical trials.  Can also produce a pdf file of randomization cards.
